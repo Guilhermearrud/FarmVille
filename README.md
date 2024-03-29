@@ -25,7 +25,7 @@ The objective of the project was to test my skills doing a FullStack Project.
 
 ## <h2 id=tecnologias>🛠 Tecnologies</h2>
 
-Para este projeto eu usei as seguintes tecnologias:
+The tecnologies used in the project include:
 
 -> BackEnd
 - JavaScript
